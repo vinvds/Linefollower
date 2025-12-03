@@ -5,7 +5,7 @@
 |----------|----|------------|-----------|---------|------|---------|
 |         1| TB6612FNG Easy Motor Driver  |motor driver Hbrug|nieuw|€ 7.00|1      |€ 7.00         |
 |         2| 3.7V 18650 2600mAh batterij  |batterij|recup|€ 0.00|2   |€ 0.00         |
-|         3| TB6612FNG Easy Motor Driver  |motor driver Hbrug|nieuw|€ 7.00|1      |€ 7.00         |
+|         3| Aslong JGA12-N20-30 DC-Transmissiemotor 6V - 500RPM  |motoren met borstels|nieuw|€ 4.50|2      |€ 9.00         |
 |         4| TB6612FNG Easy Motor Driver  |motor driver Hbrug|nieuw|€ 7.00|1      |€ 7.00         |
 |         5| TB6612FNG Easy Motor Driver  |motor driver Hbrug|nieuw|€ 7.00|1      |€ 7.00         |
 |         6| TB6612FNG Easy Motor Driver  |motor driver Hbrug|nieuw|€ 7.00|1      |€ 7.00         |
@@ -18,8 +18,7 @@
 
 
 volgnummer	naam	omschrijving	nieuw/recup	kostprijs/stuk	aantal	subtotaal
-1	Pololu DRV8835 Motor Driver	Hbrug	Nieuw	€ 9.35	1	€ 9.35
-2	3.7V 18650 2600mAh batterij	batterij	Nieuw	€ 7.35	1 x 2	€ 7.35
+
 3	50 :1 Micro Metal Gearmotor HPCB 6V	motoren met borstels	Nieuw	€ 22.15	2	€ 44.30
 4	QTR-8RC Reflector Sensor Array	lichtsensor	Nieuw	€ 12.95	1	€ 12.95
 5	Pololu Wheel 40x7mm Pair Black	wielen	Nieuw	€ 7.25	1x2	€ 7.25
