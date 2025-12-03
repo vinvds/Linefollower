@@ -4,6 +4,12 @@
 |volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk|aantal|subtotaal|
 |----------|----|------------|-----------|---------|------|---------|
 |         1| TB6612FNG Easy Motor Driver  |motor driver Hbrug|nieuw|€ 7.00|1      |€ 7.00         |
+|         2| 3.7V 18650 2600mAh batterij  |batterij|recup|€ 0.00|2   |€ 0.00         |
+|         3| TB6612FNG Easy Motor Driver  |motor driver Hbrug|nieuw|€ 7.00|1      |€ 7.00         |
+|         4| TB6612FNG Easy Motor Driver  |motor driver Hbrug|nieuw|€ 7.00|1      |€ 7.00         |
+|         5| TB6612FNG Easy Motor Driver  |motor driver Hbrug|nieuw|€ 7.00|1      |€ 7.00         |
+|         6| TB6612FNG Easy Motor Driver  |motor driver Hbrug|nieuw|€ 7.00|1      |€ 7.00         |
+|         7| TB6612FNG Easy Motor Driver  |motor driver Hbrug|nieuw|€ 7.00|1      |€ 7.00         |
 
 
 
