@@ -16,7 +16,7 @@
 switch 
 weerstanden
 printplaat 
-kabels 
+kabels  
 
 
 
