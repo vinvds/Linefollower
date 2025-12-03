@@ -3,7 +3,7 @@
 
 |volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk|aantal|subtotaal|
 |----------|----|------------|-----------|---------|------|---------|
-|         1|   |motor driver Hbrug|nieuw|€ 7.00|1      |€ 7.00         |
+|         1| TB6612FNG Easy Motor Driver  |motor driver Hbrug|nieuw|€ 7.00|1      |€ 7.00         |
 
 
 
