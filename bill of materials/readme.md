@@ -18,7 +18,7 @@
 |         13| jumper kabel man-vrouw 60 stuks |kabels |nieuw|€ 4,50|1      |€ 4,50         |
 |         14| testprintplaat 80x100 |printplaat |nieuw|€ 4,50|1      |€ 4,50         |
 |         15| Accu 18650 Universal Quick Charge Battery Charger for Rechargeable Li-ion Batteries 3.7 V |batterij oplader |nieuw|€ 17.00|1      |€ 17.00         |
-|         16|totaal  | || |     |€ 86,69        |
+|         totaal:|  | || |     |€ 86,69        |
 
 
 
