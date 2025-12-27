@@ -7,21 +7,21 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: Arduino Nano R3 - kloon - met headers
 
-motors: 
+motors: 2 keer => Aslong JGA12-N20-30 DC-Transmissiemotor 6V - 500RPM
 
-h-bridge:
+h-bridge: TB6612FNG Easy Motor Driver
 
-sensors:
+sensors: 8x IR Lijn Tracking Module - 40mm Bereik QTR-8A
 
-batteries: 
+batteries: 2 keer => 3.7V 18650 2600mAh
 
 wireless communication: dsd tech hm-10
 
 distance sensor - motors: 9cm
 
-weight: 
+weight: 218g
 
 speed: 0.6m/s
 
