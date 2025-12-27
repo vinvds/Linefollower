@@ -28,6 +28,10 @@ calibrate wit
 
 ### kalibratie
 uitleg kalibratie  => zie video leerpad
+eerst op wit zetten => calibrate wit invoeren op gsm 
+dan op zwart zetten => calibrate zwart invoeren op gsm 
+zwart word ongeveer naar 0 omgezet en wit ongeveer naar 1000
+je moet dit iedere keer per locatie opnieuw doen door andere belichting
 
 ### settings
 De robot rijdt stabiel met volgende parameters:  
