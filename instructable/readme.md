@@ -2,10 +2,10 @@
 
 Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend van de bill of materials en gebruik makend van de technische tekeningen de robot kan nabouwen. Ook de nodige stappen om de microcontroller te compileren en te uploaden staan beschreven.  
 
-###stap 1
+### stap 1
 bestel alle componenten uit de bill of materials
 
-###stap 2
+### stap 2
 kijk of alle componenten op de juiste plaats zijn en of er genoeg ruimte is om naast elke component voor eventuele fouten of extra aansluitingen.
 
 stap 3
