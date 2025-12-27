@@ -15,13 +15,13 @@ h-bridge:
 
 sensors:
 
-batteries:
+batteries: 
 
-wireless communication:
+wireless communication: dsd tech hm-10
 
-distance sensor - motors:
+distance sensor - motors: 9cm
 
-weight:
+weight: 
 
-speed: 
+speed: 0.6m/s
 
